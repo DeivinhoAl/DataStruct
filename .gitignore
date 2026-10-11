@@ -1,0 +1,13 @@
+out/
+dist/*
+!dist/DataStruct.jar
+.research/
+*.dsxml
+tmp/
+output/
+/DataStruct
+docs/CAPA.md
+docs/ANALISE_E_ROTEIRO.md
+*.log
+.env
+.env.*
